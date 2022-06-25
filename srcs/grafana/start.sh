@@ -1,0 +1,2 @@
+telegraf &
+./bin/grafana-server
